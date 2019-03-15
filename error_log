@@ -1,0 +1,59 @@
+[04-Mar-2019 11:13:11 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:13:11 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:13:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php:18
+Stack trace:
+#0 /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php(56): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/nexusinfotechno.com.au/crudAction.php(9): Action->addContactInquiry(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 18
+[04-Mar-2019 11:14:02 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:14:02 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:14:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php:18
+Stack trace:
+#0 /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php(56): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/nexusinfotechno.com.au/crudAction.php(9): Action->addContactInquiry(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 18
+[04-Mar-2019 11:17:27 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:17:27 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:18:41 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:18:41 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:18:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php:18
+Stack trace:
+#0 /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php(56): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/nexusinfotechno.com.au/crudAction.php(15): Action->addContactInquiry(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 18
+[04-Mar-2019 11:19:35 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:19:35 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:19:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php:18
+Stack trace:
+#0 /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php(56): Action->getDBConnection()
+#1 /home/nexusuvx/public_html/nexusinfotechno.com.au/crudAction.php(15): Action->addContactInquiry(Array)
+#2 {main}
+  thrown in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 18
+[04-Mar-2019 11:21:06 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:21:06 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:25:52 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:25:52 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:29:22 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:29:22 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:32:11 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[04-Mar-2019 11:32:11 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:45:46 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:45:46 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:47:22 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:47:22 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:49:31 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:49:31 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:49:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/nexusuvx/public_html/nexusinfotechno.com.au/crudAction.php on line 21
+[06-Mar-2019 09:53:25 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:53:25 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:56:01 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:56:01 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:57:30 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:57:30 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:58:43 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 09:58:43 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 10:01:55 Etc/GMT] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
+[06-Mar-2019 10:01:55 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/nexusuvx/public_html/nexusinfotechno.com.au/include/action.php on line 3
